@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsFilesCleaner", "VsFilesCleaner.csproj", "{873357F4-6F7B-46D9-B39B-F26E6152CD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsFilesCleanerTask", "..\VsFilesCleanerTask\VsFilesCleanerTask.csproj", "{2CE092B8-F1F6-4246-A3F5-01ADD760507C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873357F4-6F7B-46D9-B39B-F26E6152CD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873357F4-6F7B-46D9-B39B-F26E6152CD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873357F4-6F7B-46D9-B39B-F26E6152CD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873357F4-6F7B-46D9-B39B-F26E6152CD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE092B8-F1F6-4246-A3F5-01ADD760507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE092B8-F1F6-4246-A3F5-01ADD760507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE092B8-F1F6-4246-A3F5-01ADD760507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE092B8-F1F6-4246-A3F5-01ADD760507C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9294D5B-AB76-470D-A4D1-82AE6E155733}
+	EndGlobalSection
+EndGlobal
